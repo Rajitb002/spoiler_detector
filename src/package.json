@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@nlpjs/basic": "^4.27.0",
+    "nlpjs": "^0.0.2"
+  }
+}
